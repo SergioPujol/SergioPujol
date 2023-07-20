@@ -2,7 +2,8 @@
 
 ## About me
 
-***Software Developer*** passionate about creating innovative solutions in the digital world, with experience in web development including front-end and back-end.
+***Full-Stack Developer***
+I build stuff with React, Angular, Node.js and TypeScript.
 
 **Skills**
 
