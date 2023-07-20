@@ -2,7 +2,7 @@
 
 ## About me
 
-***Full-Stack Developer***
+#### Full-Stack Developer
 I build stuff with React, Angular, Node.js and TypeScript.
 
 **Skills**
